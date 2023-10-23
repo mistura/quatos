@@ -1105,7 +1105,7 @@ blockquote::before {
 -----------------------------------------*/
 .custom-form .form-control,
 .input-group-file {
-  background-color: var(--section-bg-color);
+  background-color: var(--primary-color);
   box-shadow: none;
   border: 0;
   color: var(--p-color);
