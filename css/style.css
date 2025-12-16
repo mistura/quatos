@@ -1080,8 +1080,8 @@ display: flex;
 }
 
 .logos img {
-  max-width: 80px;
-  max-height: 80px;
+  max-width: 140px;
+  max-height: 100px;
   object-fit: contain;
 }
 
